@@ -1,6 +1,6 @@
 import styles from "./logo.module.css";
 
-export default function ({ className }: { className?: string }) {
+export default function Logo({ className }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 80 133"
